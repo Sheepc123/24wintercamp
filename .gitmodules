@@ -1,0 +1,6 @@
+[submodule "test"]
+	path = test
+	url = https://github.com/Sheepc123/test.git
+[submodule "exams"]
+	path = exams
+	url = https://github.com/Sheepc123/test.git
